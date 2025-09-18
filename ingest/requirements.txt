@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+qdrant-client
+sentence-transformers
+tqdm
+python-dotenv
